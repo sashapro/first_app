@@ -3,6 +3,8 @@ FirstApp::Application.routes.draw do
 
   get "say/goodbye"
 
+  get "say/filee"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
