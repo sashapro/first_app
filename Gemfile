@@ -37,6 +37,8 @@ gem 'jquery-rails', '2.0.0'
 
 # Use unicorn as the app server
 # gem 'unicorn'
+gem "mongrel", "1.2.0.pre2"
+gem "cgi_multipart_eof_fix"
 
 
 # Deploy with Capistrano
